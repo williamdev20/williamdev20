@@ -69,14 +69,14 @@ Me chamo William Alves, tenho 15 anos, sou desenvolvedor backend com experiênci
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=williamdev20&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=williamdev20&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdev20&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdev20&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
