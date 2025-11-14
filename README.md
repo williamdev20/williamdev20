@@ -1,5 +1,7 @@
 ## 👋 Olá!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamalves20/)
+
+
 Me chamo William Alves, tenho 15 anos, sou desenvolvedor backend com experiência em Python/Django e Ruby/Sinatra e programo desde os 13 anos. Faço parte da equipe de desenvolvimento do sistema RAG TOMAS (Tecnologia Orientada Mediante a Apoio e Sensibilidade) na minha formação técnica na escola Senac Paulista PE e possuo certificações da Cisco em Defesa de Redes e Cibersegurança.
 
 
