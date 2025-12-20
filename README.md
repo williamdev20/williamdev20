@@ -2,10 +2,19 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamalves20/)
 
 
-Me chamo William Alves, tenho 16 anos, sou desenvolvedor backend com experiência em Python/Django e programo desde os 13 anos. Fiz parte da equipe de desenvolvimento do sistema RAG TOMAS (Tecnologia Orientada Mediante a Apoio e Sensibilidade) na minha formação técnica na escola Senac Paulista PE e atualmente atuo como engenheiro de firmware em um colar inteligente chamado IARA (Inteligência Assistiva de Reconhecimento Auditivo e gestual).
+Me chamo William Alves, tenho 16 anos, sou desenvolvedor backend com experiência em Python/Django e programo desde os 13 anos. Fiz parte da equipe de desenvolvimento do sistema RAG TOMAS (Tecnologia Orientada Mediante a Apoio e Sensibilidade) na minha formação técnica na escola Senac Paulista PE e atualmente atuo como um dos desenvolvedores dm um colar inteligente chamado IARA (Inteligência Assistiva de Reconhecimento Auditivo e gestual).
 
 
 ### Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -15,13 +24,14 @@ Me chamo William Alves, tenho 16 anos, sou desenvolvedor backend com experiênci
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
+
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Django Rest Framework"
+    title="Django Rest Framework" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" 
 />
 
 <img 
@@ -35,20 +45,20 @@ Me chamo William Alves, tenho 16 anos, sou desenvolvedor backend com experiênci
 
 <img 
     align="left" 
-    alt="Ruby" 
-    title="Ruby"
+    alt="React" 
+    title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
 />
 
 <img 
     align="left" 
-    alt="Sinatra" 
-    title="Sinatra"
+    alt="React Native" 
+    title="React Native"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://miro.medium.com/1*NIAh2_nKxPwK3gq2Jgrcfw.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" 
 />
 
 <img 
@@ -58,6 +68,15 @@ Me chamo William Alves, tenho 16 anos, sou desenvolvedor backend com experiênci
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
 />
 
 <br/>
