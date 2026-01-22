@@ -1,9 +1,16 @@
 ## 👋 Olá!
+
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamalves20/)
 
 
 Me chamo William Alves, tenho 16 anos, sou desenvolvedor backend com experiência em Python/Django e programo desde os 13 anos. Fiz parte da equipe de desenvolvimento do sistema RAG TOMAS (Tecnologia Orientada Mediante a Apoio e Sensibilidade) na minha formação técnica na escola Senac Paulista (PE) e atualmente atuo como um dos desenvolvedores de um colar inteligente chamado IARA (Inteligência Assistiva de Reconhecimento Auditivo e gestual).
 
+<img
+    src="./assets/aquarium-pixel-art.png"
+    width=150
+/>
 
 ### Tecnologias
 
