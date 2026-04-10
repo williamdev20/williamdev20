@@ -8,6 +8,7 @@
 - Desenvolvedor Backend com foco em Python e Django
 - Programo desde os 13 anos
 - Estudante de Desenvolvimento de Sistemas no Senac PE
+- Entusiasta em Ciência de Dados e Machine Learning
 
 ---
 
@@ -15,7 +16,6 @@
 - **RAG TOMAS** (IA para neurodivergentes)
 - **IARA** (sistema que converte sinais em libras em voz)
 - **ChecAI** (detector de Fake News baseado em busca semântica usando **embeddings**, **similaridade de cosseno** e **Agente de IA** para análise contextual)
-- **HospedAI** (sistema de hotelaria com IA para predição de churn - perda de clientes)
 
 ---
 
