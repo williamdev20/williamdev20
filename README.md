@@ -12,9 +12,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://github.com/williamdev20">
-    <img src="https://komarev.com/ghpvc/?username=williamdev20&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS" />
-  </a>
+  &nbsp;&nbsp;
+  
+  <img src="https://komarev.com/ghpvc/?username=williamdev20&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS" />
+  
+  &nbsp;&nbsp;
   
   <a href="mailto:william.alves.developer@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -61,7 +63,7 @@ print(william.introduce())
 
 | 📦 Projeto | Descrição | 🛠️ Tecnologias |
 |:---|:---|:---:|
-| [**RAG TOMAS**](https://github.com/harisoncleytondev/tomas) | IA voltada para pessoas neurodivergentes | `Python` `Django` |
+| [**TOMAS**](https://github.com/harisoncleytondev/tomas) | IA voltada para pessoas neurodivergentes | `Python` `Django` |
 | [**IARA**](https://github.com/williamdev20/iara-web) | Sistema que converte sinais em Libras em voz | `Python` `IA` |
 | [**ChecAI**](https://github.com/williamdev20/chec-ai-backend) | Detector de Fake News utilizando busca semântica, embeddings, similaridade de cosseno e agentes de IA | `Python` `IA` |
 | [**TEAcolhe**](https://github.com/teacolhe-enfermagem/teacolhe-mobile) | Aplicativo criado para auxiliar profissionais de enfermagem no atendimento humanizado a pacientes com Transtorno do Espectro Autista (TEA) | `TypeScript` `React Native` `Expo` |
