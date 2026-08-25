@@ -7,21 +7,23 @@
   Desenvolvedor Mobile & Backend · Python & Django · React Native e Flutter
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/williamalves20/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  &nbsp;&nbsp;
-  
-  <img src="https://komarev.com/ghpvc/?username=williamdev20&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS" />
-  
-  &nbsp;&nbsp;
-  
-  <a href="mailto:william.alves.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/williamalves20/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=williamdev20&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS" />
+    </td>
+    <td>
+      <a href="mailto:william.alves.developer@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 💻 Sobre mim
 ```python
