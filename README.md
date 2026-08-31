@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Desenvolvedor Mobile & Backend · Python & Django · React Native e Flutter
+  Desenvolvedor Backend & Mobile · Python & Django · React Native & Flutter
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 class Developer:
     def __init__(self, name: str) -> None:
         self.name: str = name
-        self.role: str = "Desenvolvedor Mobile & Backend"
+        self.role: str = "Desenvolvedor Backend & Mobile"
         self.education: str = "Desenvolvimento de Sistemas @ Senac PE"
 
         self.stack: dict[str, list[str]] = {
@@ -59,7 +59,7 @@ print(william.introduce())
 
 | 📦 Projeto | Descrição | 🛠️ Tecnologias |
 |:---|:---|:---:|
-| [**TOMAS**](https://github.com/harisoncleytondev/tomas) | IA voltada para pessoas neurodivergentes | `Python` `Django` |
+| [**TOMAS**](https://github.com/harisoncleytondev/tomas) | IA voltada para pessoas neurodivergentes | `React` `Javascript` |
 | [**IARA**](https://github.com/williamdev20/iara-web) | Sistema que converte sinais em Libras em voz | `Python` `IA` |
 | [**ChecAI**](https://github.com/williamdev20/chec-ai-backend) | Detector de Fake News utilizando busca semântica, embeddings, similaridade de cosseno e agentes de IA | `Python` `IA` |
 | [**TEAcolhe**](https://github.com/teacolhe-enfermagem/teacolhe-mobile) | Aplicativo criado para auxiliar profissionais de enfermagem no atendimento humanizado a pacientes com Transtorno do Espectro Autista (TEA) | `TypeScript` `React Native` `Expo` |
